@@ -7,7 +7,7 @@ Tech Stack:
 Hibernate/JPA - As ORM
 Spring Boot - Integration Framework
 H2 Database - As DataBase which will be run in server mode
-----------------------------------------------------------------------------------------------------------------------
+
 Code for Entity beans Exist in the package : hibernate-test\src\main\java\com\statestreet\test\dto
 
 To Record scrore for a course for each student introduced follwoing Entities under above folder : CourseRecord and StudentCourse
