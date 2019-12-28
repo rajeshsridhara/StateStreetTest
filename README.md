@@ -4,9 +4,9 @@ I attached a Spring Boot Application which provides the solution for the given t
 ---------------------------------------------------------------------------------------------------------------------
 Tech Stack:
 
-Hibernate/JPA - As ORM
-Spring Boot - Integration Framework
-H2 Database - As DataBase which will be run in server mode
+Hibernate/JPA - As ORM <br/>
+Spring Boot - Integration Framework <br/>
+H2 Database - As DataBase which will be run in server mode <br/>
 
 Code for Entity beans Exist in the package : hibernate-test\src\main\java\com\statestreet\test\dto
 
