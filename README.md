@@ -20,6 +20,11 @@ Similar functionality can be achived by using JPARepositoties where we can use D
 hibernate-test\src\main\java\com\statestreet\test\dao\CourseRepository.java
 hibernate-test\src\main\java\com\statestreet\test\dao\StudentRepository.java
 
+Appropriate JUnits are provided for Daos at the below path,
+hibernate-test\src\test\java\com\statestreet\test\dao\StudentDaoTest.java
+hibernate-test\src\test\java\com\statestreet\test\dao\CourseRepositoryTest.java
+hibernate-test\src\test\java\com\statestreet\test\dao\StudentRepositoryTest.java
+
 
 Bese Practices Regarding Hibernate :
 
